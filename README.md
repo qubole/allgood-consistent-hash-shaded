@@ -1,0 +1,1 @@
+# allgood-consistent-hash-shaded
