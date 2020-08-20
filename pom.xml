@@ -4,7 +4,7 @@
 
     <groupId>com.qubole</groupId>
     <artifactId>allgood-consistent-hash-shaded</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <name>allgood-consistent-hash-shaded</name>
     <url>http://github.com/qubole/allgood-consistent-hash-shaded</url>
     <description>Shaded version of https://github.com/ishugaliy/allgood-consistent-hash</description>
@@ -32,7 +32,7 @@
         <connection>scm:git:git://github.com/qubole/allgood-consistent-hash-shaded.git</connection>
         <url>http://github.com/qubole/allgood-consistent-hash-shaded</url>
         <developerConnection>scm:git:git@github.com:qubole/allgood-consistent-hash-shaded.git</developerConnection>
-        <tag>allgood-consistent-hash-shaded-1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <organization>
