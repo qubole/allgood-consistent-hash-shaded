@@ -16,4 +16,4 @@ Add following to your maven <i>settings.xml</i> (~/.m2/settings.xml), merge with
         </servers>
     </settings>
 
-Build via `mvn install`
+Build via `mvn install`, use <i>release</i> profile while releasing
