@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.qubole</groupId>
     <artifactId>allgood-consistent-hash-shaded</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <name>allgood-consistent-hash-shaded</name>
     <url>http://github.com/qubole/allgood-consistent-hash-shaded</url>
     <description>Shaded version of https://github.com/ishugaliy/allgood-consistent-hash</description>
@@ -34,7 +32,7 @@
         <connection>scm:git:git://github.com/qubole/allgood-consistent-hash-shaded.git</connection>
         <url>http://github.com/qubole/allgood-consistent-hash-shaded</url>
         <developerConnection>scm:git:git@github.com:qubole/allgood-consistent-hash-shaded.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>allgood-consistent-hash-shaded-1.0</tag>
     </scm>
 
     <organization>
